@@ -24,11 +24,11 @@ markmap:
 - [==Indoor:== TP-Link EAP670 V2 Omada WiFi 6 Ultra- Slim AX5400 Wireless 2.5G (Qty: 3)](https://www.tp-link.com/us/business-networking/omada-sdn-access-point/eap670/)
 - [==Outdoor:== TP-Link EAP650-Outdoor | Omada True WiFi6 AX3000 Gigabit](https://www.tp-link.com/us/business-networking/omada-sdn-access-point/eap650-outdoor/)
 
-## Cameras:
+## Cameras
 - [REOLINK Video Doorbell PoE Camera](https://www.amazon.com/REOLINK-Doorbell-Security-Diagonal-Detection/dp/B0B7S1HMPC)
 - [Amcrest UltraHD 4K (8MP) Outdoor Security IP Turret PoE Camera, IP8M-T2599EW (Qty: 8)](https://amcrest.com/4k-poe-camera-turret-ip8m-t2599ew.html)
 
-## Security system:
+## Security system
 - [Ring Alarm 14-Piece Kit](https://www.amazon.com/Ring-Alarm-14-piece-kit-2nd/dp/B08YMBQJ49/ref=sr_1_1)
 - [Fire HD 10](https://www.amazon.com/Amazon_Fire_HD_10/dp/B0BL5PYD69/ref=sr_1_1)
 - [Home Assistant](https://www.home-assistant.io/)
